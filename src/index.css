@@ -4,7 +4,7 @@ body{
 }
 #root{
   margin: 20px auto;
-  width: fit-content;
+  width: 300px;
 }
 header{
   border-top-left-radius: 10px;
@@ -16,4 +16,8 @@ header > img{
   height: 300px;
   object-fit: cover;
   object-position: top;
+}
+footer > img{
+  width: 24px;
+  height: 24px;
 }

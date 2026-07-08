@@ -1,7 +1,11 @@
 export default function Footer() {
     return (
         <footer>
-            <p>ReactFacts</p>
+            <img src="../src/assets/square-twitter-brands-solid-full.svg" alt="Twitter" />
+            <img src="../src/assets/square-twitter-brands-solid-full.svg" alt="Twitter" />
+            <img src="../src/assets/square-twitter-brands-solid-full.svg" alt="Twitter" />
+            <img src="../src/assets/square-twitter-brands-solid-full.svg" alt="Twitter" />
+            <img src="../src/assets/square-twitter-brands-solid-full.svg" alt="Twitter" />
         </footer>
     )
 }
