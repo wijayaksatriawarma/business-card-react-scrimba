@@ -1,3 +1,5 @@
+import EmailICon from '../src/assets/envelope-solid-full.svg'
+
 export default function Main() {
     return (
         <main>
@@ -6,7 +8,7 @@ export default function Main() {
                 <p className="occupation">Frontend Developer</p>
                 <p>pieterjohn.website</p>
                 <div className="button-container">
-                    <button><img src="../src/assets/envelope-solid-full.svg" alt="envelope-logo" /><span>Email</span></button>
+                    <button><img src={EmailICon} alt="envelope-logo" /><span>Email</span></button>
                 </div>
             </section>
 
