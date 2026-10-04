@@ -1,7 +1,7 @@
 import FacebookIcon from '../src/assets/square-facebook-brands-solid-full.svg';
 import TwitterIcon from '../src/assets/square-twitter-brands-solid-full.svg';
-import InstagramIcon from '../src/assets/square-facebook-brands-solid-full.svg';
-import GithubIcon from '../src/assets/square-twitter-brands-solid-full.svg';
+import InstagramIcon from '../src/assets/square-instagram-brands-solid-full.svg';
+import GithubIcon from '../src/assets/square-github-brands-solid-full.svg';
 import LinkedInIcon from '../src/assets/linkedin-brands-solid-full.svg';
 
 
